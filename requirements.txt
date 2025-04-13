@@ -1,0 +1,6 @@
+
+pytesseract
+opencv-python
+PyMuPDF
+pyspellchecker
+numpy
